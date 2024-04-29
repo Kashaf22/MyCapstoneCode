@@ -1,6 +1,7 @@
 # PredictTheKick
 
-This project is designed to build an ML model to get soccer ball trajectory predictions for penalty kicks in XY dimensions
+This project is designed to build an ML model that can predict soccer goal trajectories in XY dimensions and determine the status of the ball being in or or out of the goal post
+
 
 ## Getting Started
 
