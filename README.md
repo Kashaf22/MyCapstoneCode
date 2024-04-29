@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PredictTheKick
 
 This project is designed to build an ML model that can predict soccer goal trajectories in XY dimensions and determine the status of the ball being in or or out of the goal post
@@ -39,3 +40,6 @@ Model Predicting In or Out of the Goal Posts:
 
 
 
+=======
+# MyCapstoneCode
+>>>>>>> f9b19338c6408eb7fab87db54576f541f005c41b
